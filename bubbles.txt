@@ -1,0 +1,17 @@
+bubble menu
+item:cakes
+item:expresso
+item:manchurian
+item:cream brownies
+item:tea
+item:cofee
+item:milkshakes
+item:cupcakes
+item:coldrinks
+
+
+item:rtyui
+item:rtyui
+item:chapathi
+item:chapathi
+item:chapathi

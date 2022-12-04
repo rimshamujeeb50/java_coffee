@@ -1,0 +1,13 @@
+starbucks menu
+item:tacos
+item:pasta
+item:watermelon popsicle
+item:blue devil mocktail
+item:tea
+item:coffee
+item:bagels
+item:cupcakes
+item:pasteries
+item:chapathi
+item:chapathi
+item:chapathi
